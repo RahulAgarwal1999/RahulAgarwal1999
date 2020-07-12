@@ -1,15 +1,13 @@
 ### Hi there 👋
-My name is Rahul Agarwal and i am a 3rd year CSE student in SRM Institute of Science and Technology.
 
+# Rahul Agarwal
+### Django Full Stack Web Developer || Competetive Programmer || Leetcode Practitioner 
 
+I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Conputer Science and Engineering from SRM Institute of Science and Technology,Chennai 🏫.I love to explore and learn about new things.
 
-.📚 Technologist in Systems Analysis and Development.
-.👩‍🎓 Bachelor Degree in Law.
-.🏢 Hackathons Mentor.
-.💙 In love with Java.
-.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
-.💻 Techs: Java, C#, .Net and NodeJS.
-.🌍 Languages: English, French and Spanish.
-.😄 Also Lawyer.
-.💬 Ask me about: tech, law, languages from different countries and foods.
-.⚡ Fun Fact: I love cooking and Disney.
+# ⚡️ Technologies
+Talk to me about
+ - Front-end development using HTML, Javascript,CSS,Bootstrap,UIkit
+ - Backend development using Django
+ - Database such as dbsql, MySql and PostgeSql
+ - Solving Data structure and algorithm questions in C and Python
