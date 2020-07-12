@@ -1,16 +1,15 @@
 ### Hi there 👋
+My name is Rahul Agarwal and i am a 3rd year CSE student in SRM Institute of Science and Technology.
 
-<!--
-**RahulAgarwal1999/RahulAgarwal1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.📚 Technologist in Systems Analysis and Development.
+.👩‍🎓 Bachelor Degree in Law.
+.🏢 Hackathons Mentor.
+.💙 In love with Java.
+.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
+.💻 Techs: Java, C#, .Net and NodeJS.
+.🌍 Languages: English, French and Spanish.
+.😄 Also Lawyer.
+.💬 Ask me about: tech, law, languages from different countries and foods.
+.⚡ Fun Fact: I love cooking and Disney.
