@@ -13,7 +13,7 @@
 
 I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Computer Science and Engineering from SRM Institute of Science and Technology,Chennai 🏫.I love to explore and learn about new things.
 
-# 📖 About
+## 📖 About
  - **Working** : Django Web Development📱
  - **Learning** : Cloud Computing ☁️ and Competitive Programming 👨‍💻
  - **Hobbies** : Books 📚 | Music 🎧
@@ -23,7 +23,7 @@ I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Comp
  
 
 
-# ⚡️ Technologies
+## ⚡️ Technologies
 Talk to me about
  - **Front-end development** using HTML, Javascript,CSS,Bootstrap,UIkit
  - **Backend development** using Django
@@ -35,7 +35,7 @@ Talk to me about
  
  
  
- # 💼 Work Experience
+ ## 💼 Work Experience
  - **Raven Innovation Pvt Ltd** <br>
  Django Full Stack Developer Intern<br>
  April,2020 - Now <br>
@@ -53,7 +53,7 @@ Talk to me about
   **Completion Certificate:** <a href="https://drive.google.com/file/d/1wM4wkiWgpL-EQ4_np64I4e5uS3QwsDTr/view">See Here</a>
   
   
-  # 🏅 Certification
+  ## 🏅 Certification
    - **CNN For Computer Vision with Keras and Tensorflow in Python**<br>
    Udemy<br>
    Issued on May,2020<br>
@@ -74,7 +74,7 @@ Talk to me about
   Issued on Sept,2019<br>
   **See Credential:** <a href="https://www.udemy.com/certificate/UC-NX5EC070/">See Here</a>
   
-  # 🎗 Volunteer Experience
+  ## 🎗 Volunteer Experience
    - **Student Volunteer**<br>
    Bhumi Foundation<br>
    April,2020 - Now
