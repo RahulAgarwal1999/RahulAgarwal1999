@@ -5,20 +5,21 @@
 <a href="rahul.agarwal31101999@gmail.com"><img src="https://img.icons8.com/color/48/000000/google-plus--v1.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://twitter.com/RahulAg25201825"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://www.instagram.com/rahul_agarwal1999/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40px" width="40px"/></a>&nbsp;
-
+<a href="https://github.com/RahulAgarwal1999"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="40px" width="40px"/></a>&nbsp;
  
-### Django Full Stack Web Developer | Competetive Programmer | Leetcode Practitioner(2⭐️ rating) | ML and DL Enthusiasts
+### Django Full Stack Web Developer | Competitive Programmer | Leetcode Practitioner(2⭐️ rating) | ML and DL Enthusiasts
 
 ## Hi There 👋
 
-I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Conputer Science and Engineering from SRM Institute of Science and Technology,Chennai 🏫.I love to explore and learn about new things.
+I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Computer Science and Engineering from SRM Institute of Science and Technology,Chennai 🏫.I love to explore and learn about new things.
 
 # 📖 About
  - **Working** : Django Web Development📱
- - **Learning** : Cloud Computing ☁️ and Competetive Programming 👨‍💻
+ - **Learning** : Cloud Computing ☁️ and Competitive Programming 👨‍💻
  - **Hobbies** : Books 📚 | Music 🎧
  - **Goals** : Software Engineer In FAANG 👑
  - **Ask Me About**: Anything!, I'm happy to help ✌️
+ - **Projects** : Check Out my Github Repository 😇  
  
 
 
@@ -77,6 +78,8 @@ Talk to me about
    - **Student Volunteer**<br>
    Bhumi Foundation<br>
    April,2020 - Now
+   
+## Thank You For Your Visit 😇 
    
    
   
