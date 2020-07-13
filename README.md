@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/rahul-agarwal-9b7a98171/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="40px" width="40px"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100005953057441"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40px" width="40px"/></a>&nbsp;
-<a href="rahul.agarwal31101999@gmail.com"><img src="https://img.icons8.com/color/48/000000/google-plus--v1.png" height="40px" width="40px"/></a>&nbsp;
+<a href="mailto: rahul.agarwal31101999@gmail.com"><img src="https://img.icons8.com/color/48/000000/google-plus--v1.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://twitter.com/RahulAg25201825"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://www.instagram.com/rahul_agarwal1999/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://github.com/RahulAgarwal1999"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="40px" width="40px"/></a>&nbsp;
