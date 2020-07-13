@@ -13,6 +13,14 @@
 
 I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Conputer Science and Engineering from SRM Institute of Science and Technology,Chennai 🏫.I love to explore and learn about new things.
 
+# 📖 About
+ - **Working** : Django Web Development📱
+ - **Learning** : Cloud Computing ☁️ and Competetive Programming 👨‍💻
+ - **Hobbies** : Books 📚 | Music 🎧
+ - **Goals** : Software Engineer In FAANG 👑
+ - **Ask Me About**: Anything!, I'm happy to help ✌️
+ 
+
 
 # ⚡️ Technologies
 Talk to me about
@@ -31,15 +39,46 @@ Talk to me about
  Django Full Stack Developer Intern<br>
  April,2020 - Now <br>
  Work From Home<br>
-  **Offer Letter:** <a href="https://drive.google.com/file/d/1GPhgxqaJgax_v_1tKUlFpwDcs5OHJ_IE/view?usp=sharing">See Here</a>
  
   - **Paytm** <br>
   Campus Ambassador <br>
+  Internship<br>
   May,2020 - Now<br>
-  **Offer Letter:** <a href="https://drive.google.com/file/d/1tuY2EioinJ2WRnvirKOCgxhkNUN9EIDT/view?usp=sharing">See Here</a>
   
    - **Intellify, IIT Delhi** <br>
   Subject Matter Expert (Python) Intern <br>
   April,2020 - May,2020 <br>
   Work From Home<br>
   **Completion Certificate:** <a href="https://drive.google.com/file/d/1wM4wkiWgpL-EQ4_np64I4e5uS3QwsDTr/view">See Here</a>
+  
+  
+  # 🏅 Certification
+   - **Cnn For Computer Vision with Keras and Tensorflow in Python**<br>
+   Udemy<br>
+   Issued on May,2020<br>
+   **See Credential:** <a href="https://www.udemy.com/certificate/UC-070f14b9-5d34-41ec-9a4e-83c4cdc50d27/">See Here</a>
+   
+   - **Python for Data Science and Machine Learning Bootcamp**<br>
+   Udemy<br>
+   Issued on Apr,2020<br>
+   **See Credential:** <a href="https://www.udemy.com/certificate/UC-15f22b95-e879-4959-943d-526607a17d0f/">See Here</a>
+  
+  - **Python and Django Full Stack Web Developer Bootcamp**<br>
+   Udemy<br>
+   Issued on Oct,2019<br>
+   **See Credential:** <a href="https://www.udemy.com/certificate/UC-432GFP4S/">See Here</a>
+  
+  - **Mastering Data Structures and Algorithm using C and C++**
+  Udemy<br>
+  Issued on Sept,2019<br>
+  **See Credential:** <a href="https://www.udemy.com/certificate/UC-NX5EC070/">See Here</a>
+  
+  # 🎗 Volunteer Experience
+   - **Student Volunteer**<br>
+   Bhumi Foundation<br>
+   April,2020 - Now
+   
+   
+  
+  
+  
