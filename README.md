@@ -54,7 +54,7 @@ Talk to me about
   
   
   # 🏅 Certification
-   - **Cnn For Computer Vision with Keras and Tensorflow in Python**<br>
+   - **CNN For Computer Vision with Keras and Tensorflow in Python**<br>
    Udemy<br>
    Issued on May,2020<br>
    **See Credential:** <a href="https://www.udemy.com/certificate/UC-070f14b9-5d34-41ec-9a4e-83c4cdc50d27/">See Here</a>
@@ -69,7 +69,7 @@ Talk to me about
    Issued on Oct,2019<br>
    **See Credential:** <a href="https://www.udemy.com/certificate/UC-432GFP4S/">See Here</a>
   
-  - **Mastering Data Structures and Algorithm using C and C++**
+  - **Mastering Data Structures and Algorithm using C and C++**<br>
   Udemy<br>
   Issued on Sept,2019<br>
   **See Credential:** <a href="https://www.udemy.com/certificate/UC-NX5EC070/">See Here</a>
