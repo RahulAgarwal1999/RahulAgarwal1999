@@ -27,7 +27,7 @@ I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Comp
 Talk to me about
  - **Front-end development** using HTML, Javascript,CSS,Bootstrap,UIkit
  - **Backend development** using Django
- - **Database** such as dbsql, MySql and PostgeSql
+ - **Database** such as dbsql, MySql and PostgreSql
  - **Data Visualization** using Numpy,Pandas,Matplotlib and Seaborn
  - **Data Modelling** using Tensorflow and Keras
  - **Data structure and algorithm** in C++ and Python
