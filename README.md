@@ -31,7 +31,7 @@ Talk to me about
  - **Data Visualization** using Numpy,Pandas,Matplotlib and Seaborn
  - **Data Modelling** using Tensorflow and Keras
  - **Data structure and algorithm** in C++ and Python
- - **Coding Platform** as Leetcode and HackerEarth
+ - **Coding Platform** as Codechef - Leetcode - HackerEarth
  
  
  
