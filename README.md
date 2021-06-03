@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/rahul_agarwal1999/" title="rahul_agarwal1999"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://github.com/RahulAgarwal1999" title="RahulAgarwal1999"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="40px" width="40px"/></a>&nbsp;
  
-### Django Full Stack Web Developer | C++ Competitive Programmer | Leetcode Practitioner(3⭐️ rating | 600+ problems) | 3⭐️ Codechef (1674)
+### Summer Intern @Walmart Gobal Tech |  Django Full Stack Web Developer | Leetcode Practitioner(3⭐️ rating | 700+ problems) | Competitive Programmer 
 
 ## Hi There 👋
 
