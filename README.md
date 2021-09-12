@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/rahul_agarwal1999/" title="rahul_agarwal1999"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40px" width="40px"/></a>&nbsp;
 <a href="https://github.com/RahulAgarwal1999" title="RahulAgarwal1999"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="40px" width="40px"/></a>&nbsp;
  
-### Summer Intern @Walmart Gobal Tech |  Django Full Stack Web Developer | Leetcode Practitioner(3⭐️ rating | 700+ problems) | Competitive Programmer 
+### Former SWE Intern @Walmart Gobal Tech |  Django Full Stack Web Developer | Leetcode Practitioner(800+ problems) | Competitive Programmer 
 
 ## Hi There 👋
 
@@ -17,7 +17,7 @@ I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Comp
  - **Working** : Django Web Development📱
  - **Learning** : Cloud Computing ☁️ and Competitive Programming 👨‍💻
  - **Hobbies** : Competitive Programming | Books 📚 | Music 🎧
- - **Goals** : Software Engineer In FAANG 👑
+ - **Goals** : Software Engineer In a Product Based Company 👑
  - **Ask Me About**: Anything!, I'm happy to help ✌️
  - **Projects** : Check Out my Github Repository 😇  
  
@@ -26,27 +26,30 @@ I am Rahul Agarwal 😃. I am from Kolkata and currently doing my B.Tech in Comp
 ## ⚡️ Technologies
 Talk to me about
  - **Front-end development** using HTML, Javascript,CSS,Bootstrap,UIkit
- - **Backend development** using Django
+ - **Backend development** using Django, Python
  - **Database** such as dbsql, MySql and PostgreSql
- - **Data Visualization** using Numpy,Pandas,Matplotlib and Seaborn
- - **Data Modelling** using Tensorflow and Keras
- - **Data structure and algorithm** in C++ and Python
- - **Coding Platform** as Codechef - Leetcode - HackerEarth
+ - **Data structure and algorithm** in C++,Java and Python
+ - **Coding Platform** as GeeksForGeeks - Leetcode - HackerEarth
  
  
  
  ## 💼 Work Experience
+  - **Walmart Global Tech** <br>
+ Software Engineering Intern<br>
+ June,2021 - August,2021 <br>
+ Chennai, India<br>
+ 
+  - **GeeksForGeeks** <br>
+  Technical Content Writer Intern <br>
+  March,2021 - Sept,2021<br>
+  
  - **Raven Innovation Pvt Ltd** <br>
  Django Full Stack Developer Intern<br>
- April,2020 - Now <br>
+ April,2020 - April,2021 <br>
  Work From Home<br>
  
-  - **Paytm** <br>
-  Campus Ambassador <br>
-  Internship<br>
-  May,2020 - Now<br>
   
-   - **Intellify, IIT Delhi** <br>
+- **Intellify Learnings, IIT Delhi** <br>
   Subject Matter Expert (Python) Intern <br>
   April,2020 - May,2020 <br>
   Work From Home<br>
