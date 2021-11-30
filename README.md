@@ -31,56 +31,8 @@ Talk to me about
  - **Data structure and algorithm** in C++,Java and Python
  - **Coding Platform** as GeeksForGeeks - Leetcode - HackerEarth
  
- 
- 
- ## 💼 Work Experience
-  - **Walmart Global Tech** <br>
- Software Engineering Intern<br>
- June,2021 - August,2021 <br>
- Chennai, India<br>
- 
-  - **GeeksForGeeks** <br>
-  Technical Content Writer Intern <br>
-  March,2021 - Sept,2021<br>
-  
- - **Raven Innovation Pvt Ltd** <br>
- Django Full Stack Developer Intern<br>
- April,2020 - April,2021 <br>
- Work From Home<br>
- 
-  
-- **Intellify Learnings, IIT Delhi** <br>
-  Subject Matter Expert (Python) Intern <br>
-  April,2020 - May,2020 <br>
-  Work From Home<br>
-  **Completion Certificate:** <a href="https://drive.google.com/file/d/1wM4wkiWgpL-EQ4_np64I4e5uS3QwsDTr/view">See Here</a>
-  
-  
-  ## 🏅 Certification
-   - **CNN For Computer Vision with Keras and Tensorflow in Python**<br>
-   Udemy<br>
-   Issued on May,2020<br>
-   **See Credential:** <a href="https://www.udemy.com/certificate/UC-070f14b9-5d34-41ec-9a4e-83c4cdc50d27/">See Here</a>
-   
-   - **Python for Data Science and Machine Learning Bootcamp**<br>
-   Udemy<br>
-   Issued on Apr,2020<br>
-   **See Credential:** <a href="https://www.udemy.com/certificate/UC-15f22b95-e879-4959-943d-526607a17d0f/">See Here</a>
-  
-  - **Python and Django Full Stack Web Developer Bootcamp**<br>
-   Udemy<br>
-   Issued on Oct,2019<br>
-   **See Credential:** <a href="https://www.udemy.com/certificate/UC-432GFP4S/">See Here</a>
-  
-  - **Mastering Data Structures and Algorithm using C and C++**<br>
-  Udemy<br>
-  Issued on Sept,2019<br>
-  **See Credential:** <a href="https://www.udemy.com/certificate/UC-NX5EC070/">See Here</a>
-  
-  ## 🎗 Volunteer Experience
-   - **Student Volunteer**<br>
-   Bhumi Foundation<br>
-   April,2020 - Now
+ ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
    
 ## Thank You For Your Visit 😇 
    
