@@ -31,6 +31,7 @@ Talk to me about
  - **Data structure and algorithm** in C++,Java and Python
  - **Coding Platform** as GeeksForGeeks - Leetcode - HackerEarth
  
+ ### GITHUB VIEWS
  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
    
